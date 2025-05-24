@@ -1,4 +1,4 @@
-**# forest_cover_prediction**#   Forest Cover Type Prediction
+# **forest_cover_prediction**
 
 ##   Overview
 
